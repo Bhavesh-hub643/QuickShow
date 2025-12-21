@@ -100,8 +100,9 @@ This project simulates how a real cinema booking system works.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/quickshow.git
-cd quickshow
+git clone https://github.com/Bhavesh-hub643/QuickShow.git
+cd QuickShow
+
 ```
 
 ---
