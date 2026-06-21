@@ -236,11 +236,3 @@ Basic testing can be done by:
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
-
-## 👨‍🎓 Author
-
-This project was developed as part of academic learning to gain hands-on experience with full-stack web development and real-world application design.
-
-
